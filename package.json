@@ -1,0 +1,24 @@
+{
+  "name": "post-image-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "compromise": "^13.6.0",
+    "compromise-paragraphs": "0.0.4",
+    "compromise-sentences": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node": "^15.0.1",
+    "nodemon": "^2.0.6",
+    "pg": "^8.4.1",
+    "pg-promise": "^10.7.1",
+    "stopwords": "0.0.9"
+  }
+}
