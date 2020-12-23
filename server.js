@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const nlpAnalyzer = require("./nlp_analyzer.js")
+const nlpAnalyzer = require("./modules/nlp_analyzer")
 const bcrypt = require('bcrypt');
 const pgp = require('pg-promise')();
 
