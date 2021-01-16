@@ -1,8 +1,8 @@
-# Guess the Note (Server)
+# Post with Image (Server)
 
 ## Summary
 
-A cool game for those who want to challenge their relative pitch!\nEach round, the player is given a random musical note (pitch) to find on the piano. The fewer guesses they make, the more points they win. They can try harder levels and win even more points.\nThe ten best scorers get a spot in the prestigious \"Top 10\".
+This tool lets you find the perfect picture for your social media post.\nThe algorithm performs some natural language processing (NLP) on the text and then queries the Unsplash API. If you find a good picture but don't want to upload your post yet, you can save it for later.
 
 ## Database Tables
 
