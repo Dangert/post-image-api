@@ -30,7 +30,7 @@ This tool lets you find the perfect picture for your social media post.\nThe alg
   CREATE TABLE saved_items (id serial PRIMARY KEY, user_id serial NOT NULL, name text NOT NULL, post text NOT NULL, img_url text NOT NULL, created_at TIMESTAMP NOT NULL, updated_at TIMESTAMP NOT NULL);
   ```
 
-## run locally
+## Run Locally
 
 - clone repository and `cd` into local directory
 - run `npm install`
